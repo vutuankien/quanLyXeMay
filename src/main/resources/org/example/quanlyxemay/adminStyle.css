@@ -1,0 +1,19 @@
+#leftPane{
+    -fx-background-color: #e30d4c;
+}
+.table-view .column-header,
+.table-view .column-header .filler,
+.table-view .column-header-background .filler {
+    -fx-background-color: #d71f1f;
+    -fx-text-background-color: white;
+    -fx-text-alignment: center;
+}
+.button{
+    -fx-background-color: #e30d4c;
+    -fx-text-fill: white;
+    -fx-background-radius:25px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.8), 5, 0, 0, 0);
+}
+#btnProfile{
+    -fx-background-color: #0398fc;
+}
